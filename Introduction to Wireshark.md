@@ -15,7 +15,7 @@ The objective of this lab is to introduce students to **Wireshark**, a powerful 
 
 ### **Software Required**
 - [Wireshark](https://www.wireshark.org/download.html) (latest stable version)
-- [Download Sample PCAP file]()
+- [Download Sample PCAP file](https://github.com/iamthirumalesh/SOC-Resources/blob/main/Protocol_Analysis_pcap.pcapng)
 
 ---
 
