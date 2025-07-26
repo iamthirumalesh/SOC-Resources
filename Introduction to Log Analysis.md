@@ -110,5 +110,3 @@ This command lists all local user accounts on the system, which could be used by
 
 - SOC Analyst Role: SOC Analysts use log analysis to detect threats, investigate incidents, and ensure system compliance.
 
-### Submission:
-- Windows Logs: Submit a screenshot of the log generated on the Windows machine.
