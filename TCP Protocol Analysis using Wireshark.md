@@ -1,4 +1,4 @@
-# **Day#8: Wireshark Basics – TCP Protocol Analysis**
+# **TCP Protocol Analysis**
 
 ---
 
